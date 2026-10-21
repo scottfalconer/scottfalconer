@@ -1,19 +1,22 @@
 # Scott Falconer
 
-I'm Senior Director, Applied AI & Agent Success Engineering at Acquia. I build and lead work on agent tools, permissions, evaluations, and developer workflows. I also lead the Drupal AI Initiative's Outside AI workstream.
+I build working AI demos and the tooling behind them: agents connected to open-source tools over MCP, under real user permissions. I'm Senior Director, Applied AI & Agent Success Engineering at Acquia, and I lead the Drupal AI Initiative's Outside AI workstream.
 
-## Selected work
+## Keynote demos
 
-- **[self-learning-skills](https://github.com/scottfalconer/self-learning-skills)** — Local memory for coding agents: recall candidate lessons, record new ones, and prepare skill updates for review.
-- **[drupal-agent-readiness](https://github.com/scottfalconer/drupal-agent-readiness)** — An exploratory test bench for agent behavior on Drupal sites, with retained evidence, automated scoring, and explicit limits on what the results establish.
-- **[agent-ready-drupal-build-kit](https://github.com/scottfalconer/agent-ready-drupal-build-kit)** — Tools for AI coding agents to build reviewable Drupal sites, with separate verification and human handoff.
+- **[Rotterdam keynote demo (starts at 33:26)](https://youtu.be/jrXnvVD8ryo?t=2006)**: MCP connecting different AI agents to an open-source CMS, with the platform enforcing each user's permissions and revision history. I implemented, produced, filmed and narrated it with Claude Code.
+- **[Behind-the-scenes walkthrough](https://www.youtube.com/watch?v=Gpq0ZnMg4mg)**: how the Rotterdam demo works and how to set it up yourself.
+- **[Chicago keynote demo: Lovable to Drupal](https://github.com/scottfalconer/vision25)**: turning a visual prototype into a structured, editable site with coding agents. [How we built it](https://www.linkedin.com/pulse/from-lovable-drupal-how-we-made-driesnote-demo-real-scott-falconer-7hrfc).
+
+## Tools other developers use
+
+- **[drupal-contribute-fix](https://github.com/scottfalconer/drupal-contribute-fix)**: an agent skill that finds existing fixes before patching and packages contributions for human review. Adopted into Drupal's community skills library.
+- **[self-learning-skills](https://github.com/scottfalconer/self-learning-skills)**: local memory for coding agents; recall lessons, record new ones and prepare skill updates for review.
+- **[agent-ready-drupal-build-kit](https://github.com/scottfalconer/agent-ready-drupal-build-kit)**: build tooling where a separate verifier, not the building agent, decides when a site is done.
+- **[Agent Access](https://www.drupal.org/project/agent_access)**: connects AI assistants to a site through users' own accounts over OAuth and MCP.
 
 ## Open source and teaching
 
-I contribute to Drupal's AI, Tool API, and Canvas projects. My [Drupal.org profile](https://www.drupal.org/u/scott-falconer) and [GitLab contributions](https://git.drupalcode.org/scottfalconer) cover work outside GitHub.
-
-I build reusable developer workflows, including [drupal-contribute-fix](https://github.com/scottfalconer/drupal-contribute-fix), and teach practical AI-assisted engineering. Recent teaching includes [Reviewer-Friendly AI: A Practical Drupal Contribution Workshop](https://events.drupal.org/rotterdam2026/session/reviewer-friendly-ai-practical-drupal-contribution-workshop) at DrupalCon Rotterdam.
-
-I'm the author of *Managing AI: A Practical Guide to Applying Artificial Intelligence*.
+I contribute to Drupal AI, Tool API and Canvas ([Drupal.org](https://www.drupal.org/u/scott-falconer), [GitLab](https://git.drupalcode.org/scottfalconer)) and teach practical AI-assisted engineering, including [Reviewer-Friendly AI](https://events.drupal.org/rotterdam2026/session/reviewer-friendly-ai-practical-drupal-contribution-workshop) at DrupalCon Rotterdam. Author of *Managing AI*.
 
 [Writing and book](https://www.managing-ai.com/) · [LinkedIn](https://www.linkedin.com/in/scottfalconer)
